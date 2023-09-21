@@ -1,14 +1,15 @@
 
 # CodingChallenge 
 
-
-
 ## Run Locally
 
 Ensure that you have PHP 8.1+ and Composer installed in the system.
 
-Extract the zip file 
+Clone the project
 
+```bash
+  git clone https://github.com/pankaj45/CodingChallengeEastern.git
+```
 
 Go to the project directory
 
